@@ -1,0 +1,19 @@
+a {
+color: green;
+font-size: 40px; 
+}
+#f
+{color: lime}
+#s
+{color: red}
+#c
+{color: white}
+.x
+{border: 3px solid red;
+ border-radius:3px;}
+.y
+{margin-top: 30px} 
+body
+{
+background-image: url(pict.jpg);	
+}
